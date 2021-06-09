@@ -1,7 +1,7 @@
 # `node:mime`
 
 This repository implements the 
-[https://bmeck.github.io/node-proposal-mime-api/]( JS MIME API )for use bundled
+[JS MIME API](https://bmeck.github.io/node-proposal-mime-api/)for use bundled
 within Node.js core.
 
 ## Installation
