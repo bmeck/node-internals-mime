@@ -1,0 +1,18 @@
+{
+  "name": "internals-mime",
+  "version": "0.0.0",
+  "private": true,
+  "description": "node:mime implementation",
+  "scripts": {
+    "test": "node --expose-internals -r internal/test/binding test.js",
+    "lint": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.4",
+    "eslint": "^7.28.0",
+    "eslint-plugin-markdown": "^2.2.0"
+  }
+}
